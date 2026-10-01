@@ -1,0 +1,24 @@
+{
+  "name": "sample_mern_app",
+  "version": "1.0.0",
+  "description": "hrmanagementsystem",
+  "homepage": "https://github.com/amaravajicharan-cse/amaravajicharan-hue#readme",
+  "bugs": {
+    "url": "https://github.com/amaravajicharan-cse/amaravajicharan-hue/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amaravajicharan-cse/amaravajicharan-hue.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.10.1"
+  }
+}
